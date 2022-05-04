@@ -2,6 +2,7 @@
 ### Business Analytics and Accounting Student
 ### University of Iowa, Tippie College of Business
 Pronouns: she/her
+[LinkedIn](https://www.linkedin.com/in/riley-plummer-668448183/)
 
 <!--
 **rileyplummer/rileyplummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
