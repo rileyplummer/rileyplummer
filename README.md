@@ -2,6 +2,7 @@
 ### Business Analytics and Accounting Student
 ### University of Iowa, Tippie College of Business
 Pronouns: she/her
+<br>
 [LinkedIn](https://www.linkedin.com/in/riley-plummer-668448183/)
 
 <!--
